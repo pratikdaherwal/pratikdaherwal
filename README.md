@@ -3,7 +3,7 @@
 <br/>
 ⚡ I’m currently working on my new project *Justine [AI Assistant]* 
 <br/>
-📲 Check out my website: [pratikdaherwal.github.io](https://pratikdaherwal.github.io/) or
+📲 Check out my website: [pratikdaherwal.github.io](https://pratikdaherwal.github.io)
 
 💌 Reach me on [Twitter](https://twitter.com/daherwalprince)
 
