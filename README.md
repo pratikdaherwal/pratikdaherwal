@@ -2,9 +2,9 @@
 <br/>
 <br/>
 ⚡ I’m currently working on my new project *Justine [AI Assistant]* 
-<br/>
-📲 Check out my website: [pratikdaherwal.github.io](https://pratikdaherwal.github.io)
 
+📲 Check out my website: [pratikdaherwal.github.io](https://pratikdaherwal.githubio)
+<br />
 💌 Reach me on [Twitter](https://twitter.com/daherwalprince)
 
 <br />
