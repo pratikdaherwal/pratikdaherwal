@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there 👋 <br/> I'm Pratik Daherwal. </h1>
+<h1 align="center"> Hi there 👋 <br/> I'm Pratik Daharwal. </h1>
 
 ⚡ Currently working on my new projects.
 <br />
