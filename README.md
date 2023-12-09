@@ -1,12 +1,12 @@
 
 <h1 align="center"> Hi there 👋 <br/> I'm Pratik Daherwal. </h1>
 
-⚡ I’m currently working on my new project Justine *[AI Assistant]*.
+⚡ Currently working on my new projects.
 <br />
-🌱 I’m currently learning JAVA and Python. <br/>
+🌱 Talks about Programming. <br/>
 📲 Check out my website: [pratikdaherwal.github.io](https://pratikdaherwal.githubio).
 <br />
-💌 Reach me on [Twitter](https://twitter.com/daherwalprince).
+💌 Reach me on [Email](mailto:prateekdaherwal@gmail.com).
 
 <br />
 <br />
